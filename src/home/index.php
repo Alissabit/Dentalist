@@ -22,7 +22,7 @@ if (!utente_autenticato()) {
                     <div class="media">
                         <img src="/_utilities-condivise/immagini/Copertina.jpg" class="align-self-start mr-3 img-fluid" alt="Clinica Dentistica" style="max-width: 50%;">
                         <div class="media-body">
-                            <h1>Sorridi grazie a Dentalist!!</h1>
+                            <h1>Sorridi grazie a Dentalist!!!</h1>
                             <p>La nostra missione è prenderci cura del vostro <b>sorriso</b> con professionalità e dedizione. Offriamo una vasta gamma di servizi per soddisfare tutte le vostre esigenze dentistiche, utilizzando le tecnologie più avanzate e un approccio personalizzato per ogni paziente. Il nostro team di esperti è qui per garantirvi il miglior trattamento possibile, in un ambiente accogliente e confortevole.</p>
                             <p>Presso la nostra clinica, ci impegniamo a fornire un'attenzione particolare a ogni dettaglio, assicurandoci che ogni visita sia un'esperienza positiva e senza stress. <b>La vostra salute orale</b> è la nostra priorità, e lavoriamo costantemente per migliorare i nostri servizi.</p>
                             <p>Il nostro obiettivo è farvi sentire a vostro agio e sicuri durante ogni fase del trattamento. <b>La vostra soddisfazione</b> è il nostro successo, e ci dedichiamo a costruire relazioni di fiducia con i nostri pazienti. Venite a scoprire come possiamo aiutarvi a raggiungere e mantenere un sorriso sano e splendente.</p>
