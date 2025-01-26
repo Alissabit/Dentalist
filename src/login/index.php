@@ -16,7 +16,7 @@ if (utente_autenticato()) {
 
     <body>
         <div class="container">
-            <h1 class="text-center my-5">Login</h1>
+            <h1 class="text-center my-5">Login abc</h1>
             <form method="POST" action="/api/controller/loginUtente.php" id="form-login">
                 <div class="mb-3">
                     <?php input_text("username", "Email o Codice Fiscale"); ?>
@@ -25,7 +25,7 @@ if (utente_autenticato()) {
                     <?php input_password("password", "Password"); ?>
                 </div>
                 <div class="d-grid">
-                    <?php bottone_submit("Accedi"); ?>
+                    <?php bottone_submit("Accedi 123"); ?>
                     <a href="/registrazione" class="btn btn-secondary">Registrati</a>
                 </div>
             </form> 
