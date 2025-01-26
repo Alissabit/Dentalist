@@ -1,0 +1,5 @@
+{
+  "id_visita": [{ "tipo": "CAMPO_OBBLIGATORIO" }],
+  "data": [{ "tipo": "CAMPO_OBBLIGATORIO" }],
+  "orario": [{ "tipo": "CAMPO_OBBLIGATORIO" }]
+}

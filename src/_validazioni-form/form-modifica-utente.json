@@ -1,0 +1,5 @@
+{
+  "email": [{ "tipo": "CAMPO_OBBLIGATORIO" }, { "tipo": "EMAIL" }],
+  "telefono": [{ "tipo": "CAMPO_OBBLIGATORIO" }, { "tipo": "TELEFONO" }],
+  "indirizzo": [{ "tipo": "CAMPO_OBBLIGATORIO" }]
+}

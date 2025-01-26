@@ -1,0 +1,7 @@
+{
+  "username": [{ "tipo": "CAMPO_OBBLIGATORIO" }],
+  "password": [
+    { "tipo": "CAMPO_OBBLIGATORIO" },
+    { "tipo": "LUNGHEZZA_MINIMA", "lunghezza": 8 }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "nome": [{ "tipo": "CAMPO_OBBLIGATORIO" }],
+  "cognome": [{ "tipo": "CAMPO_OBBLIGATORIO" }],
+  "cf": [{ "tipo": "CAMPO_OBBLIGATORIO" }, { "tipo": "CF" }],
+  "email": [{ "tipo": "CAMPO_OBBLIGATORIO" }, { "tipo": "EMAIL" }],
+  "password": [
+    { "tipo": "CAMPO_OBBLIGATORIO" },
+    { "tipo": "LUNGHEZZA_MINIMA", "lunghezza": 8 }
+  ],
+  "telefono": [{ "tipo": "CAMPO_OBBLIGATORIO" }, { "tipo": "TELEFONO" }],
+  "indirizzo": [{ "tipo": "CAMPO_OBBLIGATORIO" }]
+}
