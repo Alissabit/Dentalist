@@ -41,7 +41,13 @@ if (utente_autenticato()) {
                 <div class="d-grid">
                     <?php bottone_submit("Registrati"); ?>
                 </div>
+                <div class="d-grid2">
+                <div class="accountcheck">
+                    <p> Hai già un account? <a href="/login" class="btn-outline-dark">Accedi</a> </p>         
+                    </div>
+</div>
             </form> 
+
         </div>
 
         <!-- Inclusione di Bootstrap JS e Popper.js -->

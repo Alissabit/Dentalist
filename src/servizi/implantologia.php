@@ -44,7 +44,7 @@ if (!utente_autenticato()) {
                             <h1>Implantologia</h1>
                             <p>Offriamo soluzioni avanzate per la sostituzione di denti mancanti con <b>impianti dentali</b>. Gli impianti sono radici dentali artificiali che vengono inserite nell'osso mascellare per supportare denti sostitutivi. I nostri impianti dentali offrono una soluzione <b>stabile</b> e <b>duratura</b>, migliorando sia la funzionalità che l'estetica del vostro sorriso.</p>
                             <p>Presso la nostra clinica, utilizziamo tecnologie all'avanguardia e materiali di alta qualità per garantire un successo che dura nel tempo. Il nostro team di esperti vi guiderà attraverso ogni fase del trattamento, assicurandosi che siate completamente soddisfatti del risultato finale. La <b>vostra soddisfazione</b> è la nostra priorità, e ci impegniamo a fornirvi un servizio eccellente.</p>
-                            <a href="prenotazione.html" class="btn btn-primary">Prenota un Appuntamento</a>
+                            <a href="/prenota-visita"  class="btn btn-primary">Prenota un Appuntamento</a>
                         </div>
                         <img src="/_utilities-condivise/immagini/Impiantologia.jpg" class="img-fluid" alt="Impiantologia">
                     </div>

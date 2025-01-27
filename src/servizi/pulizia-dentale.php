@@ -44,7 +44,7 @@ if (!utente_autenticato()) {
                             <h1>Pulizia Dentale</h1>
                             <p>La pulizia dentale è una procedura fondamentale per mantenere una corretta igiene orale e prevenire problemi dentali. Durante la pulizia dentale, i nostri esperti rimuovono la placca e il tartaro dai denti, riducendo il rischio di carie e malattie gengivali. Una <b>pulizia dentale regolare</b> aiuta a mantenere denti forti e gengive sane, migliorando anche l'aspetto del vostro sorriso.</p>
                             <p>Presso la nostra clinica, utilizziamo strumenti avanzati e tecniche moderne per garantire una pulizia dentale efficace e confortevole. Il nostro team di professionisti è qui per assicurarvi un'esperienza positiva e senza stress. La vostra <b>salute orale</b> è la nostra priorità, e ci impegniamo a fornirvi il miglior trattamento possibile.</p>
-                            <a href="prenotazione.html" class="btn btn-primary">Prenota un Appuntamento</a>
+                            <a href="/prenota-visita"  class="btn btn-primary">Prenota un Appuntamento</a>
                         </div>
                         <img src="/_utilities-condivise/immagini/PuliziaDentale.jpg" class="img-fluid" alt="Pulizia Dentale">
                     </div>

@@ -44,7 +44,7 @@ if (!utente_autenticato()) {
                             <h1>Ortodonzia</h1>
                             <p>L’ortodonzia è una branca dell’odontoiatria che si occupa di prevenire, diagnosticare e trattare malposizioni dentali e disallineamenti della mascella. Presso la nostra clinica utilizziamo tecnologie all’avanguardia e offriamo soluzioni personalizzate, dai tradizionali <b>apparecchi fissi</b> agli innovativi <b>allineatori trasparenti</b>. Il nostro obiettivo è migliorare la funzionalità e l’estetica del sorriso, garantendo risultati duraturi e il massimo comfort per i nostri pazienti.</p>
                             <p>Affidatevi ai nostri specialisti per ritrovare l'armonia del vostro sorriso!</p>
-                            <a href="prenotazione.html" class="btn btn-primary">Prenota un Appuntamento</a>
+                            <a href="/prenota-visita"  class="btn btn-primary">Prenota un Appuntamento</a>
                         </div>
                         <img src="/_utilities-condivise/immagini/Odontoiatrica.jpg" class="img-fluid" alt="Ortodonzia">
                     </div>

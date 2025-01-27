@@ -45,7 +45,7 @@ if (!utente_autenticato()) {
                             <h1>Sbiancamento</h1>
                             <p>Lo sbiancamento dentale è un trattamento estetico che mira a rendere i vostri denti più bianchi e luminosi. Utilizziamo tecniche avanzate e prodotti di alta qualità per garantire risultati sicuri ed efficaci.</p>
                             <p>Presso la nostra clinica, offriamo diverse opzioni di sbiancamento dentale, tra cui trattamenti in studio e kit per sbiancamento domiciliare. Il nostro team di esperti vi guiderà nella scelta del metodo più adatto alle vostre esigenze, per garantirvi un sorriso semplicemente smagliante!. La <b>vostra soddisfazione</b> è la nostra priorità, e ci impegniamo a fornirvi un servizio di alta qualità.</p>
-                            <a href="prenotazione.html" class="btn btn-primary">Prenota un Appuntamento</a>
+                            <a href="/prenota-visita"  class="btn btn-primary">Prenota un Appuntamento</a>
                         </div>
                         <img src="/_utilities-condivise/immagini/Sbiancamento.jpg" class="img-fluid" alt="Sbiancamento">
                     </div>

@@ -44,7 +44,7 @@ if (!utente_autenticato()) {
                             <h1>Visita d'Urgenza</h1>
                             <p>La visita d'urgenza è pensata per affrontare problemi dentali acuti e dolorosi che richiedono un intervento immediato. Il nostro team di esperti è pronto a fornire cure rapide ed efficaci per alleviare il dolore e risolvere il problema. Un <b>intervento tempestivo</b> può prevenire complicazioni e migliorare rapidamente la vostra condizione.</p>
                             <p>Presso la nostra clinica, siamo attrezzati per gestire una vasta gamma di emergenze dentali, dalle infezioni ai traumi dentali. Utilizziamo tecnologie avanzate per garantire diagnosi accurate e trattamenti efficaci. La <b>vostra salute orale</b> è la nostra priorità, e ci impegniamo a fornirvi il miglior servizio possibile anche in situazioni di emergenza.</p>
-                            <a href="prenotazione.html" class="btn btn-primary">Prenota un Appuntamento</a>
+                            <a href="/prenota-visita"  class="btn btn-primary">Prenota un Appuntamento</a>
                         </div>
                         <img src="/_utilities-condivise/immagini/VisitadUrgenza.jpg" class="img-fluid" alt="Visita d'Urgenza">
                     </div>

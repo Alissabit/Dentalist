@@ -209,6 +209,8 @@
 
 body {
   margin: 0;
+  padding-top: 5%; //compensa il fixed nav
+  padding-bottom:
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
@@ -220,6 +222,35 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+accountcheck {
+  margin-top: 0.25rem;
+    display: flex;
+    justify-content: center;
+}
+
+.custom-backgroundhome {
+  background-image: url('/_utilities-condivise/immagini/Copertina2.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 3rem;
+}
+
+/*.white-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 1rem;
+}*/
+.leggibile {
+  max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1rem;
+  
+}
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -3882,6 +3913,8 @@ fieldset:disabled .btn {
   --bs-btn-disabled-bg: transparent;
   --bs-btn-disabled-border-color: #343a40;
   --bs-gradient: none;
+margin-top: 1rem;
+display:center;
 }
 
 .btn-link {
@@ -8701,6 +8734,13 @@ fieldset:disabled .btn {
 
 .d-grid {
   display: grid !important;
+}
+
+
+.d-grid2 {
+  margin-top: 0.25rem;
+    display: flex;
+    justify-content: center;
 }
 
 .d-inline-grid {

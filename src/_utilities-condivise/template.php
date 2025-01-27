@@ -51,9 +51,6 @@ function inserisci_header()
             get_profilo_utente_db(),
             get_profilo_admin_db(),
         ]),
-        new LinkMenuHeader("Le mie visite", "/mie-visite/mievisite.php", [
-            get_profilo_utente_db(),
-        ]),
         new LinkMenuHeader("Prenota visita", "/prenota-visita", [
             get_profilo_utente_db(),
         ]),
@@ -90,7 +87,7 @@ function inserisci_header()
         }
     }
 
-    echo "<nav class=\"navbar navbar-expand-lg bg-primary\" data-bs-theme=\"dark\">
+    echo "<nav class=\"navbar navbar-expand-lg bg-primary fixed-top\" data-bs-theme=\"dark\">
         <div class=\"container-fluid\">
             <img src=\"/_utilities-condivise/immagini/logoDentalist.svg\" alt=\"Dentalist logo\" class=\"img-fluid\" />
             <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarColor02\" aria-controls=\"navbarColor01\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">

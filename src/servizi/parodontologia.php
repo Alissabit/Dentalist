@@ -44,7 +44,7 @@ if (!utente_autenticato()) {
                             <h1>Parodontologia</h1>
                             <p>La parodontologia si occupa della cura delle malattie delle gengive e del tessuto di supporto dei denti. Questo ramo della odontoiatria è fondamentale per prevenire e trattare condizioni come la gengivite e la parodontite, che possono portare alla perdita dei denti se non trattate adeguatamente. Una buona <b>salute parodontale</b> è essenziale per mantenere un sorriso sano e funzionale.</p>
                             <p>Presso la nostra clinica, offriamo trattamenti avanzati per la cura delle malattie parodontali, utilizzando tecnologie moderne e approcci personalizzati. Il nostro team di esperti è qui per assicurarvi il miglior trattamento possibile, aiutandovi a mantenere gengive sane e forti. <b>La vostra salute orale</b> è la nostra priorità, e ci impegniamo a fornirvi un servizio di alta qualità.</p>
-                            <a href="prenotazione.html" class="btn btn-primary">Prenota un Appuntamento</a>
+                            <a href="/prenota-visita"  class="btn btn-primary">Prenota un Appuntamento</a>
                         </div>
                         <img src="/_utilities-condivise/immagini/Parodontolgia.jpg" class="img-fluid" alt="Parodontologia">
                     </div>

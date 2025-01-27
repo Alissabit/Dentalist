@@ -44,7 +44,7 @@ if (!utente_autenticato()) {
                             <h1>Faccette Dentali</h1>
                             <p>Le faccette dentali sono sottili lamine in ceramica che vengono applicate sulla superficie dei denti per migliorarne l'estetica. Questo trattamento è ideale per correggere imperfezioni come macchie, scheggiature, o piccoli disallineamenti. Le <b>faccette dentali</b> offrono un risultato naturale e duraturo, migliorando significativamente l'aspetto del vostro sorriso.</p>
                             <p>Presso la nostra clinica, utilizziamo materiali di alta qualità e tecniche avanzate per garantire faccette su misura che si adattano perfettamente ai vostri denti. Il nostro team di esperti vi guiderà attraverso ogni fase del trattamento, assicurandosi che siate completamente soddisfatti del risultato finale.La <b>vostra soddisfazione</b> è la nostra missione!</p>
-                            <a href="prenotazione.html" class="btn btn-primary">Prenota un Appuntamento</a>
+                            <a href="/prenota-visita"  class="btn btn-primary">Prenota un Appuntamento</a>
                         </div>
                         <img src="/_utilities-condivise/immagini/FaccetteDentali.jpg" class="img-fluid" alt="Faccette Dentali">
                     </div>

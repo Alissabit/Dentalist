@@ -44,7 +44,7 @@ if (!utente_autenticato()) {
                             <h1>Visita di Controllo</h1>
                             <p>Effettuare visite di controllo periodiche è essenziale per monitorare la salute dei vostri denti e gengive. Durante la visita, i nostri esperti esamineranno attentamente la vostra bocca per individuare eventuali problemi e fornire consigli su come mantenere una buona salute orale.</p>
                             <p>Presso la nostra clinica, ci impegniamo a rendere ogni visita di controllo un'esperienza positiva e senza stress. Utilizziamo tecnologie avanzate per garantire diagnosi accurate e trattamenti efficaci. La <b>vostra salute orale</b> è la nostra priorità, e ci dedichiamo a fornirvi il miglior servizio possibile.</p>
-                            <a href="prenotazione.html" class="btn btn-primary">Prenota un Appuntamento</a>
+                            <a href="/prenota-visita"  class="btn btn-primary">Prenota un Appuntamento</a>
                         </div>
                         <img src="/_utilities-condivise/immagini/VisitaDiControllo.jpg" class="img-fluid" alt="Visita di Controllo">
                     </div>

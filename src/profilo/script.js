@@ -41,6 +41,7 @@ function creaBodyTabella(prenotazioni) {
 
 function creaTabella(prenotazioni) {
   const tabella = document.createElement("table");
+  tabella.className = "table table-striped table-info"; // Aggiungi la classe
   tabella.innerHTML = creaHeaderTabella() + creaBodyTabella(prenotazioni);
   tabella.onclick = onClickTabella;
   const container = document.getElementById("container");
