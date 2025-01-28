@@ -65,7 +65,7 @@ if (!utente_autenticato()) {
                                         </a>
                                         <div class="card-body">
                                             <h5 class="card-title">Visita d'urgenza</h5>
-                                            <p class="card-text">Intervento rapido per risolvere problemi dentali acuti e dolore improvviso e persistente.</p>
+                                            <p class="card-text">Intervento rapidos per risolvere problemi dentali acuti e dolore improvviso e persistente.</p>
                                         </div>
                                     </div>
                                 </div>
