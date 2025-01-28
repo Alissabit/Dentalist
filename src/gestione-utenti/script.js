@@ -44,6 +44,7 @@ function creaBodyTabella(utenti) {
 
 function creaTabella(utenti) {
   const tabella = document.createElement("table");
+  tabella.className = "table table-striped table-primary";
   tabella.innerHTML = creaHeaderTabella() + creaBodyTabella(utenti);
   tabella.onclick = onClickTabella;
   const container = document.getElementById("container");

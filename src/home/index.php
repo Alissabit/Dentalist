@@ -76,7 +76,7 @@ if (!utente_autenticato()) {
                                         </a>
                                         <div class="card-body">
                                             <h5 class="card-title">Ortodonzia</h5>
-                                            <p class="card-text">Trattamenti per la correzione della posizione dei denti o disallineamento tramite mascherine mobili o apparecchi fissi.</p>
+                                            <p class="card-text">Trattamenti per la correzione della posizione dei denti o disallineamento tramite mascherine mobili o fissi.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -87,7 +87,7 @@ if (!utente_autenticato()) {
                                         </a>
                                         <div class="card-body">
                                             <h5 class="card-title">Parodontologia</h5>
-                                            <p class="card-text">Trattamenti per la cura delle malattie delle gengive, dolori e/o sanguinamento gengivale, ritrazione o gonfiore gengivale.</p>
+                                            <p class="card-text">Trattamenti per la cura delle malattie delle gengive, dolori e/o sanguinamento gengivale o ritrazione</p>
                                         </div>
                                     </div>
                                 </div>
@@ -124,7 +124,7 @@ if (!utente_autenticato()) {
                                         </a>
                                         <div class="card-body">
                                             <h5 class="card-title">Faccette Dentali</h5>
-                                            <p class="card-text">Le faccette dentali estetiche sono piccole ricostruzioni non invasive, utili per migliorare forma e colore dei denti e per rendere più armonioso il vostro sorriso.</p>
+                                            <p class="card-text">Le faccette dentali estetiche sono piccole ricostruzioni non invasive, utili per il colore.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -148,7 +148,13 @@ if (!utente_autenticato()) {
 
         <?php inserisci_footer(); ?>
 
-        <!-- Bootstrap JS -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+         <!-- Bootstrap JS -->
+         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+        <style>
+            .hover-card:hover {
+                transform: scale(1.05);
+                transition: transform 0.3s ease;
+            }
+        </style>
     </body>
 </html>

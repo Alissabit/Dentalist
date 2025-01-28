@@ -236,7 +236,7 @@ accountcheck {
 }
 
 .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0);
   padding: 3rem;
 }
 
@@ -817,6 +817,13 @@ progress {
   border-radius: var(--bs-border-radius);
   max-width: 100%;
   height: auto;
+}
+
+.img-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
 }
 
 .figure {

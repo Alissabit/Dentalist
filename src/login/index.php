@@ -16,7 +16,8 @@ if (utente_autenticato()) {
 
     <body>
         <div class="container">
-            <h1 class="text-center my-5">Login</h1>
+        <img src="/_utilities-condivise/immagini/Logo.svg" class="img-logo" alt="Logo Dentalist">
+            <h1 class="text-center my-5">Login</h1> 
             <form method="POST" action="/api/controller/loginUtente.php" id="form-login">
                 <div class="mb-3">
                     <?php input_text("username", "Email o Codice Fiscale"); ?>
