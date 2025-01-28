@@ -15,7 +15,7 @@ if (utente_autenticato()) {
     <?php inserisci_head("Registrazione"); ?>
     <body>
         <div class="container">
-            <h1 class="text-center my-5">Registrazione</h1>
+            <h1 class="text-center my-5">Registrazione ABC</h1>
             <form method="POST" action="/api/controller/creaUtente.php" id="form-registrazione">
                 <div class="mb-2">
                     <?php input_text("nome", "Nome"); ?>
